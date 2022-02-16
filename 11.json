@@ -1,6 +1,6 @@
 {
-	'name': 'Piotr',
-	'age': 23,
-	'group': 27,
-	'rating': 92
+	"name": "Piotr",
+	"age":23,
+	"group":27,
+	"rating":92
 }
